@@ -4,4 +4,4 @@ This is the GitHub organization of the bachelor lecture Power System Computation
 
 The organization contains the project templates and individual repositories for student teams.
 
-You can use the discussion board of the organization to post software engineering related questions.
+You can use the [discussion board](https://github.com/orgs/tue-ees-5xwg0/discussions) of the organization to post software engineering related questions.
